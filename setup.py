@@ -30,7 +30,7 @@ def main():
         minimum_supported_numpy = "1.14.5"
 
     numpy_version = get_or_install("numpy", minimum_supported_numpy)
-    get_or_install("scikit-build", "0.13.2")
+    get_or_install("scikit-build", "0.14.0")
     import skbuild
 
     if os.path.exists('.git'):
