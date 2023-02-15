@@ -1,3 +1,5 @@
+# This uses an old version of opencv-python to support a new build patch.
+
 [![Downloads](http://pepy.tech/badge/opencv-python)](http://pepy.tech/project/opencv-python)
 
 ## OpenCV on Wheels
